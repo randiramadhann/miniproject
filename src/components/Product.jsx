@@ -11,17 +11,17 @@ function Product() {
                     <div id="custCarousel" className="carousel slide" data-ride="carousel" align="center">
 
                         <div className="carousel-inner">
-                            <div className="carousel-item active"> <img src="https://i.imgur.com/weXVL8M.jpg" alt="Hills" /> </div>
-                            <div className="carousel-item"> <img src="https://i.imgur.com/Rpxx6wU.jpg" alt="Hills" /> </div>
-                            <div className="carousel-item"> <img src="https://i.imgur.com/83fandJ.jpg" alt="Hills" /> </div>
-                            <div className="carousel-item"> <img src="https://i.imgur.com/JiQ9Ppv.jpg" alt="Hills" /> </div>
+                            <div className="carousel-item active"> <img src="https://gomuslim.co.id/images/post/551berbagi-buka.jpg" alt="Hills" /> </div>
+                            <div className="carousel-item"> <img src="https://cdn2.tstatic.net/surabaya/foto/bank/images/4-inspirasi-takjil-untuk-buka-puasa-ramadhan-praktis-dan-mudah-dibuat-di-rumah.jpg" alt="Hills" /> </div>
+                            <div className="carousel-item"> <img src="https://raw.cdn.baca.co.id/f9f13559-2e0a-4a25-897e-51997643d535" alt="Hills" /> </div>
+                            <div className="carousel-item"> <img src="https://cdn0-production-images-kly.akamaized.net/m2WftEgdchSs_eqCSmodqYFiL6E=/1231x710/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3118637/original/022589700_1588565532-20200405-Aksi-Relawan-Pakistan-Berbagi-Makanan-Buka-Puasa-1.jpg" alt="Hills" /> </div>
                         </div>
 
                         <ol className="carousel-indicators list-inline">
-                            <li className="list-inline-item active"> <a id="carousel-selector-0" className="selected" data-slide-to="0" data-target="#custCarousel"> <img src="https://i.imgur.com/weXVL8M.jpg" className="img-fluid" /> </a> </li>
-                            <li className="list-inline-item"> <a id="carousel-selector-1" data-slide-to="1" data-target="#custCarousel"> <img src="https://i.imgur.com/Rpxx6wU.jpg" className="img-fluid" /> </a> </li>
-                            <li className="list-inline-item"> <a id="carousel-selector-2" data-slide-to="2" data-target="#custCarousel"> <img src="https://i.imgur.com/83fandJ.jpg" className="img-fluid" /> </a> </li>
-                            <li className="list-inline-item"> <a id="carousel-selector-2" data-slide-to="3" data-target="#custCarousel"> <img src="https://i.imgur.com/JiQ9Ppv.jpg" className="img-fluid" /> </a> </li>
+                            <li className="list-inline-item active"> <a id="carousel-selector-0" className="selected" data-slide-to="0" data-target="#custCarousel"> <img src="https://gomuslim.co.id/images/post/551berbagi-buka.jpg" className="img-fluid" /> </a> </li>
+                            <li className="list-inline-item"> <a id="carousel-selector-1" data-slide-to="1" data-target="#custCarousel"> <img src="https://cdn2.tstatic.net/surabaya/foto/bank/images/4-inspirasi-takjil-untuk-buka-puasa-ramadhan-praktis-dan-mudah-dibuat-di-rumah.jpg" className="img-fluid" /> </a> </li>
+                            <li className="list-inline-item"> <a id="carousel-selector-2" data-slide-to="2" data-target="#custCarousel"> <img src="https://raw.cdn.baca.co.id/f9f13559-2e0a-4a25-897e-51997643d535" className="img-fluid" /> </a> </li>
+                            <li className="list-inline-item"> <a id="carousel-selector-2" data-slide-to="3" data-target="#custCarousel"> <img src="https://cdn0-production-images-kly.akamaized.net/m2WftEgdchSs_eqCSmodqYFiL6E=/1231x710/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3118637/original/022589700_1588565532-20200405-Aksi-Relawan-Pakistan-Berbagi-Makanan-Buka-Puasa-1.jpg" className="img-fluid" /> </a> </li>
                         </ol>
                     </div>
 

@@ -9,7 +9,7 @@ export default function NavbarProfile(props) {
         return props.location.pathname === path ? " active" : ""
     }
     const history = useHistory();
-
+    
     return (
 
         <div className="col-sm-3">

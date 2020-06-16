@@ -11,14 +11,14 @@ export default function NavbarUpdate(props) {
         <div className="container mt-5">
             <nav className="navbar bg-none px-0">
                 <ul className="nav-content">
-                    <li className={`nav-item-content${getNavLinkClass("/dProgramDonasi/Description")}`}>
-                        <a className="nav-link px-0" href="/ProgramDonasi/Description">Deskripsi</a>
+                    <li className={`nav-item-content${getNavLinkClass("/donasi/description")}`}>
+                        <a className="nav-link px-0" href="/donasi/description">Deskripsi</a>
                     </li>
-                    <li className={`nav-item-content${getNavLinkClass("/ProgramDonasi/UpdateActivity")} pl-4 pr-3`}>
-                        <a className="nav-link px-0" href="/ProgramDonasi/UpdateActivity">Update Aktivitas</a>
+                    <li className={`nav-item-content${getNavLinkClass("/donasi/updateactivity")} pl-4 pr-3`}>
+                        <a className="nav-link px-0" href="/donasi/updateactivity">Update Aktivitas</a>
                     </li>
-                    <li className={`nav-item-content${getNavLinkClass("/ProgramDonasi/UpdateDonasi")} pl-2`}>
-                        <a className="nav-link px-0" href="/ProgramDonasi/UpdateDonasi">Update Donasi</a>
+                    <li className={`nav-item-content${getNavLinkClass("/donasi/updatedonasi")} pl-2`}>
+                        <a className="nav-link px-0" href="/donasi/updatedonasi">Update Donasi</a>
                     </li>
                 </ul>
             </nav>

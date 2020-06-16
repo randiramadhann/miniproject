@@ -76,7 +76,7 @@ const Activate = ({ match }) => {
                   <span className=''>Aktifkan</span>
                 </button>
               </div>
-              <div className='my-12 border-b text-center'>
+              {/* <div className='my-12 border-b text-center'>
                 <div  style={{fontFamily:"Poppins"}} className='leading-none px-2 inline-block text-sm text-gray-600 tracking-wide font-medium bg-white transform translate-y-1/2'>
                   Login or Sign Up again
                 </div>
@@ -88,17 +88,9 @@ const Activate = ({ match }) => {
                   href='/login'
                   target='_self'
                 >
-                  <span style={{fontFamily:"Poppins"}} className=''>Sign in</span>
+      
                 </a>
-                <a
-                  className='w-full max-w-xs font-bold shadow-sm rounded-lg py-3
-           bg-indigo-100 text-gray-800 flex items-center justify-center transition-all duration-300 ease-in-out focus:outline-none hover:shadow focus:shadow-sm focus:shadow-outline'
-                  href='/register'
-                  target='_self'
-                >
-                    <span style={{fontFamily:"Poppins"}} className=''>Sign Up</span>
-                </a>
-              </div>
+              </div> */}
             </form>
           </div>
         </div>

@@ -20,13 +20,14 @@ export default class UpdateActivityPage extends Component {
                             <div className="card-text ">
                                 <ol className="1 mt-4">
                                     <li>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using
-                                    </li>
-                                    <li>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                    </li>
-                                    <li>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                    Kali ini bantuan datang dari Asosiasi Pesepak Bola Profesional Indonesia ( APPI) yang memberi bantuan berupa 1.500 alat pelindung diri (APD) melalui Badan Nasional Penanggulangan Bencana ( BNPB). Pemberian donasi dilakukan di kantor BNPB, Jakarta Timur, pada Senin (15/6/2020). Donasi dari APPI diterima oleh Deputi Bidang Logistik dan Peralatan BNPB, Prasinta Dewi. Berdasarkan rilis APPI yang diterima Kompas.com, donasi berupa ribuan APD itu akan diteruskan kepada Gugus Tugas Percepatan Penanganan Covid-19 yang berada di bawah BNPB.
+Artikel ini telah tayang di Kompas.com dengan judul "Bantu Penanganan Covid-19, APPI Donasikan 1.500 APD untuk Petugas Medis", https://bola.kompas.com/read/2020/06/16/06400078/bantu-penanganan-covid-19-appi-donasikan-1.500-apd-untuk-petugas-medis.
+Penulis : Benediktus Agya Pradipta
+Editor : Tri Indriawati
+<br />
+<br />
+<br />
+<img style={{ height: 324 }} className="card-img" src="https://www.paramount-land.com/wp-content/uploads/2017/03/Dummy-Header.jpg" alt="Card image" />
                                     </li>
                                 </ol>
                             </div>
